@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gani/Desktop/RiderProjets/NLayerBestPractise/NLayer.Core/NLayer.Core.csproj": {}
+    "/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Core/NLayer.Core.csproj": {}
   },
   "projects": {
-    "/Users/gani/Desktop/RiderProjets/NLayerBestPractise/NLayer.Core/NLayer.Core.csproj": {
+    "/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Core/NLayer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gani/Desktop/RiderProjets/NLayerBestPractise/NLayer.Core/NLayer.Core.csproj",
+        "projectUniqueName": "/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Core/NLayer.Core.csproj",
         "projectName": "NLayer.Core",
-        "projectPath": "/Users/gani/Desktop/RiderProjets/NLayerBestPractise/NLayer.Core/NLayer.Core.csproj",
+        "projectPath": "/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Core/NLayer.Core.csproj",
         "packagesPath": "/Users/gani/.nuget/packages/",
-        "outputPath": "/Users/gani/Desktop/RiderProjets/NLayerBestPractise/NLayer.Core/obj/",
+        "outputPath": "/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gani/.nuget/NuGet/NuGet.Config"

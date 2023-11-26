@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yZpihNnA3bZsk6n7P6+keO0hOKwj16w+5NTz8a56rmI+zVegcVPjPK3VqoYF3eDWPtPG94Dt9Z09xnCZACWvvA==",
+  "dgSpecHash": "FEJ6W5lNoVeQf/7CQ58QoS3wR9z76jRcjdEfYELWlq0MMWq/dYJSK/vdZdeUEWZLXO1kK/NYKAnBjy0zEX4TaQ==",
   "success": true,
-  "projectFilePath": "/Users/gani/Desktop/RiderProjets/NLayerBestPractise/NLayer.Repository/NLayer.Repository.csproj",
+  "projectFilePath": "/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Repository/NLayer.Repository.csproj",
   "expectedPackageFiles": [
     "/Users/gani/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/gani/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gani/Desktop/RiderProjets/NLayerBestPractise/NLayer.Caching/NLayer.Caching.csproj": {}
+    "/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/NLayer.Caching.csproj": {}
   },
   "projects": {
-    "/Users/gani/Desktop/RiderProjets/NLayerBestPractise/NLayer.Caching/NLayer.Caching.csproj": {
+    "/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/NLayer.Caching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gani/Desktop/RiderProjets/NLayerBestPractise/NLayer.Caching/NLayer.Caching.csproj",
+        "projectUniqueName": "/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/NLayer.Caching.csproj",
         "projectName": "NLayer.Caching",
-        "projectPath": "/Users/gani/Desktop/RiderProjets/NLayerBestPractise/NLayer.Caching/NLayer.Caching.csproj",
+        "projectPath": "/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/NLayer.Caching.csproj",
         "packagesPath": "/Users/gani/.nuget/packages/",
-        "outputPath": "/Users/gani/Desktop/RiderProjets/NLayerBestPractise/NLayer.Caching/obj/",
+        "outputPath": "/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gani/.nuget/NuGet/NuGet.Config"

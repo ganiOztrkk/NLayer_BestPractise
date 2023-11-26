@@ -10,3 +10,15 @@
 /Users/gani/Desktop/RiderProjets/NLayerBestPractise/NLayer.Caching/obj/Debug/net6.0/refint/NLayer.Caching.dll
 /Users/gani/Desktop/RiderProjets/NLayerBestPractise/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.pdb
 /Users/gani/Desktop/RiderProjets/NLayerBestPractise/NLayer.Caching/obj/Debug/net6.0/ref/NLayer.Caching.dll
+/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/bin/Debug/net6.0/NLayer.Caching.deps.json
+/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/bin/Debug/net6.0/NLayer.Caching.dll
+/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/bin/Debug/net6.0/NLayer.Caching.pdb
+/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.csproj.AssemblyReference.cache
+/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.AssemblyInfoInputs.cache
+/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.AssemblyInfo.cs
+/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.csproj.CoreCompileInputs.cache
+/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.dll
+/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/obj/Debug/net6.0/refint/NLayer.Caching.dll
+/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.pdb
+/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.Caching/obj/Debug/net6.0/ref/NLayer.Caching.dll
