@@ -322,3 +322,5 @@
 /Users/gani/Desktop/Github/NLayerBestPractise/NLayer.API/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
 /Users/gani/Desktop/Github/NLayerBestPractise/NLayer.API/bin/Debug/net6.0/Autofac.dll
 /Users/gani/Desktop/Github/NLayerBestPractise/NLayer.API/bin/Debug/net6.0/Autofac.Extensions.DependencyInjection.dll
+/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.API/bin/Debug/net6.0/NLayer.Caching.dll
+/Users/gani/Desktop/Github/NLayerBestPractise/NLayer.API/bin/Debug/net6.0/NLayer.Caching.pdb
